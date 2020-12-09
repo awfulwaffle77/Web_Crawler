@@ -10,6 +10,25 @@ public class WebCrawler {
         interpretCommands(args);
 
     }
+    
+    public static void interpretConfig(String filename) {
+        List<String> list = new ArrayList<String>();
+        List<String> namesList = new ArrayList<String>();
+        List<String> valsList = new ArrayList<String>();
+        try(BufferedReader in = new BufferedReader(new FileReader("filename")))
+        {
+            String line;
+            while((line = in.readLine())!=null){
+                String[] pair = line.split("=");
+               namesList.add(pair[0]);
+                valsList.add(pair[1]);
+            }
+        }
+        catch(IOException e)
+        {
+            e.printStackTrace();
+        }
+    }	
 
     private static void interpretCommands(String[] args) {
 
