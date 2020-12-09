@@ -1,5 +1,10 @@
 package ro.mta;
-
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.List;
+import java.io.IOException;
+import java.io.FileReader;
+import java.io.BufferedReader;
 public class WebCrawler {
 
     private static PostProcessor postProcessor;
@@ -15,7 +20,8 @@ public class WebCrawler {
         List<String> list = new ArrayList<String>();
         List<String> namesList = new ArrayList<String>();
         List<String> valsList = new ArrayList<String>();
-        try(BufferedReader in = new BufferedReader(new FileReader("filename")))
+ 	FileReader reader = new FileReader(filename);
+        try(BufferedReader in = new BufferedReader(reader))
         {
             String line;
             while((line = in.readLine())!=null){
