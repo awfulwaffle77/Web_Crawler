@@ -10,12 +10,11 @@ import java.util.regex.Pattern;
 
 public class PageInterpreter {
     private Map<String, String> rules = new HashMap<>();
-    private List<String> lines;
     private int maxRules = 0;
 
     public PageInterpreter(String filename) throws IOException {
         try {
-            lines = Files.readAllLines(Paths.get(filename), StandardCharsets.UTF_8);
+            List<String> lines = Files.readAllLines(Paths.get(filename), StandardCharsets.UTF_8);
 
             for(String line: lines){
                 rules.put(line.split(":")[0], line.split(":")[1]);
