@@ -33,10 +33,23 @@ public class PostProcessor {
 
     }
 
-    public static void dimensionLimit(String siteName, Map<String,String> rules){
+      /*
+        Filtrul de dimensiune.
+        Daca dimensiunea data ca parametru este <=0 fisierul este acceptat
+        Altfel se compara valorile intre ele.
+        Daca apare vreo exceptie fisierul este respins
+     */
+    private static boolean sizeFilter(Path file,Long size){
 
+        if (size <=0){
+            return true;
+        }
 
+        try {
+            return Files.size(file) < size;
+        } catch (IOException e) {
+           return false;
+        }
     }
-
 
 }
