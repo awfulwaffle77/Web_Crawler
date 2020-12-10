@@ -15,6 +15,7 @@ public class PageInterpreter {
     public PageInterpreter(String filename) throws IOException {
         try {
             List<String> lines = Files.readAllLines(Paths.get(filename), StandardCharsets.UTF_8);
+            lines = Files.readAllLines(Paths.get(filename), StandardCharsets.UTF_8);
 
             for(String line: lines){
                 rules.put(line.split(":")[0], line.split(":")[1]);
