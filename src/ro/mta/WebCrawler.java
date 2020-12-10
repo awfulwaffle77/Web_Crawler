@@ -21,6 +21,7 @@ public class WebCrawler {
         List<String> namesList = new ArrayList<String>();
         List<String> valsList = new ArrayList<String>();
  	FileReader reader = new FileReader(filename);
+
         try(BufferedReader in = new BufferedReader(reader))
         {
             String line;
