@@ -36,7 +36,7 @@ public class CommandFactory {
         //Toate argumentele sunt null deoarece nu sunt implementate comenzile
         switch (cmdIdentifier){
             case "crawl":{
-                toRet = new CrawlCommand(null);
+                toRet = new CrawlCommand(args);
                 break;
             }
             case "list":{
@@ -44,7 +44,7 @@ public class CommandFactory {
                 break;
             }
             case "search":{
-                toRet = new SearchCommand(null);
+                toRet = new SearchCommand(args);
                 break;
             }
         }

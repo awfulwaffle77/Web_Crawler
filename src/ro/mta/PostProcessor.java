@@ -1,7 +1,13 @@
 package ro.mta;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class PostProcessor {
 
@@ -50,6 +56,34 @@ public class PostProcessor {
         } catch (IOException e) {
            return false;
         }
+    }
+
+
+    /*
+        Functia de filtrare efectiva.
+        1)Selecteaza toate fisierele ce nu sunt directoare din directorul radacina
+        2)Le filtreaza pe toate dupa dimensiunea maxima
+        3)Le filtreaza pe toate dupa cuvintele cheie
+        4)Intoarce rezultatul
+     */
+    public static List<Path> filterRootDirectory(String root, Long maxSize, List<String> keywords){
+
+        Path rootPath = Path.of(root);
+
+        try {
+            Stream<Path> files = Files.walk(rootPath).filter(Files::isRegularFile);
+
+            files = files.filter(path -> sizeFilter(path,maxSize));
+
+            files = files.filter(path->keywordFilter(path,keywords));
+
+            return files.collect(Collectors.toList());
+
+        } catch (IOException e) {
+            e.printStackTrace();
+            return null;
+        }
+
     }
 
 }
