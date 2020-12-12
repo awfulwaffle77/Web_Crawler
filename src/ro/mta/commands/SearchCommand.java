@@ -117,7 +117,6 @@ public class SearchCommand extends AbstractCommand {
             return;
         }
 
-        List<Path> filteredFiles = PostProcessor.filterRootDirectory(pathToDir,maxFileSize,keywords);
 
         Path filteredFilesRoot = Path.of(pathToDir,filteredFilesRootDirectory);
 
@@ -131,6 +130,8 @@ public class SearchCommand extends AbstractCommand {
             }
 
             Files.createDirectory(filteredFilesRoot);
+
+            List<Path> filteredFiles = PostProcessor.filterRootDirectory(pathToDir,maxFileSize,keywords);
 
             copyFiles(filteredFilesRoot,filteredFiles);
 
