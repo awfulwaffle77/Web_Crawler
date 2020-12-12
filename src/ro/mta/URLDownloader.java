@@ -15,6 +15,8 @@ import java.util.regex.Pattern;
 
 public class URLDownloader {
 
+    // TODO: tratare erori de acces
+
     private String rootDir;
     private int MAX_NB_OF_PAGES = 5;
     private Set<String> visitedPages;
@@ -55,6 +57,9 @@ public class URLDownloader {
         Pattern linkPattern = Pattern.compile("(src|href)=\"(.*?)\"",  Pattern.CASE_INSENSITIVE|Pattern.DOTALL);
         Matcher pageMatcher = linkPattern.matcher(content);
         //String link;
+
+        if(!content.toLowerCase().startsWith("<!doctype html>"))
+            return;
 
         while (pageMatcher.find()){
             /*System.out.println(path+fileName);
