@@ -6,6 +6,7 @@ import java.util.List;
 import java.io.IOException;
 import java.io.FileReader;
 import java.io.BufferedReader;
+import java.util.HashMap;
 
 import ro.mta.commands.AbstractCommand;
 import ro.mta.commands.CommandFactory;
@@ -183,20 +184,33 @@ public class WebCrawler {
 
     }
 
-    public static void interpretConfig(String filename) throws FileNotFoundException {
-        List<String> list = new ArrayList<String>();
-        List<String> namesList = new ArrayList<String>();
-        List<String> valsList = new ArrayList<String>();
-        FileReader reader = new FileReader(filename);
-        try (BufferedReader in = new BufferedReader(reader)) {
-            String line;
-            while ((line = in.readLine()) != null) {
-                String[] pair = line.split("=");
-                namesList.add(pair[0]);
-                valsList.add(pair[1]);
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
+/**
+     *interpretare fisier de configurare
+     *se va respecta formatul "regula":"valoare" , urmand ca regulile din fisier sa fie salvate intr-un obiect de forma HashMap <String, String>
+     */
+
+   public static void interpretConfig(String filename) throws FileNotFoundException
+{
+    List<String> list = new ArrayList<String>();
+    List<String> namesList = new ArrayList<String>();
+    List<String> valsList = new ArrayList<String>();
+    FileReader reader = new FileReader(filename);
+    try(BufferedReader in = new BufferedReader(reader))
+    {
+        String line;
+        HashMap<String, String> rules = new HashMap<String, String>();
+        while ((line = in.readLine()) != null)
+        {
+            String[] pair = line.split("=");
+            //namesList.add(pair[0]);
+            //valsList.add(pair[1]);
+            rules.put(pair[0], pair[1]);
         }
+        // System.out.println(rules);
     }
+    catch (IOException e)
+    {
+        e.printStackTrace();
+    }
+}
 }
