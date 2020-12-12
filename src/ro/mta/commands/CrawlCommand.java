@@ -42,7 +42,6 @@ public class CrawlCommand extends AbstractCommand {
         urlFile = args[2];
 
         try{
-            System.out.println("Working Directory = " + System.getProperty("user.dir"));
             BufferedReader reader = new BufferedReader(new FileReader(configFile));
             String line;
 
