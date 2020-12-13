@@ -61,23 +61,23 @@ public class Sitemap {
         }
     }
 
-    public static void main(String[] args)
-    {
-        String fileToAppend = "C:\\Users\\Bogdan\\Documents\\GitHub\\sitemap.txt";
-        Create_File(fileToAppend); //fisierul de output
-
-        String firstdirpath = "C:\\Users\\Bogdan\\Documents\\GitHub\\"; //Calea pentru directorul principal
-        File firstdir = new File(firstdirpath);
-        try {
-            if(firstdir.exists() && firstdir.isDirectory())
-            {
-                File files[] = firstdir.listFiles();
-                usingFileOutputStream(firstdirpath, fileToAppend);
-                usingFileOutputStream("\r\n", fileToAppend);
-                createSitemap(files,0,0, fileToAppend);
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
+//    public static void main(String[] args)
+//    {
+//        String fileToAppend = "C:\\Users\\Bogdan\\Documents\\GitHub\\sitemap.txt";
+//        Create_File(fileToAppend); //fisierul de output
+//
+//        String firstdirpath = "C:\\Users\\Bogdan\\Documents\\GitHub\\"; //Calea pentru directorul principal
+//        File firstdir = new File(firstdirpath);
+//        try {
+//            if(firstdir.exists() && firstdir.isDirectory())
+//            {
+//                File files[] = firstdir.listFiles();
+//                usingFileOutputStream(firstdirpath, fileToAppend);
+//                usingFileOutputStream("\r\n", fileToAppend);
+//                createSitemap(files,0,0, fileToAppend);
+//            }
+//        } catch (IOException e) {
+//            e.printStackTrace();
+//        }
+//    }
 }
