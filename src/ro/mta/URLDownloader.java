@@ -25,6 +25,7 @@ public class URLDownloader {
     private Set<String> visitedPages;
     private ArrayList<String> pagesToVisit;
     private PageInterpreter pageInterpreter;
+    private Logger logger;
 
     public String getRootDir() {
         return rootDir;
@@ -56,6 +57,7 @@ public class URLDownloader {
         this.pagesToVisit = new ArrayList<String>();
         this.numberOfThreads = numberOfThreads;
         this.pageInterpreter = new PageInterpreter("robots.txt");
+        this.logger = Logger.getInstance();
     }
 
     // TODO: check if file can be downloaded
@@ -245,16 +247,20 @@ public class URLDownloader {
             if(!pageInterpreter.isPageCorrect(content)){
                 File myObj = new File(path.toString() + fileName);
                 myObj.delete();
+                return;
             }
 
+            logger.writeLog("INFO", url.toString());
             if (fileName.endsWith(".html") || fileName.endsWith(".htm")) {
                 extractLinks(fileName, path.toString(), url);
             }
             //System.out.println("###########################################################");
         } catch (MalformedURLException url_e) {
             url_e.printStackTrace();
+            logger.writeLog("ERR", url_e.getMessage());
         } catch (IOException io_e) {
             io_e.printStackTrace();
+            logger.writeLog("ERR", io_e.getMessage());
         }
     }
 

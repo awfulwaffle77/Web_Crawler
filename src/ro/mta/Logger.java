@@ -9,7 +9,7 @@ public class Logger {
     private static Logger logger = null;
     private String logFile;
     private PrintWriter writer;
-    public Logger() {
+    private Logger() {
         try {
             logFile=System.getProperty("user.dir")+"\\logs.txt";
             System.out.println(logFile);
@@ -30,6 +30,8 @@ public class Logger {
         DateFormat dateFormat = new SimpleDateFormat("dd/MM.yyyy HH:mm:ss");
         Calendar cal = Calendar.getInstance();
         data_format = dateFormat.format(cal.getTime());
+
+        //writer.println("[ " +data_format + " ] " + tip + ": " +  message);
         if(tip=="INFO")
             writer.println("[ " +data_format + " ] " + tip + ":" + " Download in progress "+ message);
         if(tip=="WARN")
