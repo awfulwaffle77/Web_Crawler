@@ -40,7 +40,7 @@ public class CommandFactory {
                 break;
             }
             case "list":{
-                toRet = new ListCommand(null);
+                toRet = new ListCommand(args);
                 break;
             }
             case "search":{
