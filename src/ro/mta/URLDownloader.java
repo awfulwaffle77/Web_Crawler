@@ -24,6 +24,7 @@ public class URLDownloader {
     private int numberOfThreads;
     private Set<String> visitedPages;
     private ArrayList<String> pagesToVisit;
+    private PageInterpreter pageInterpreter;
 
     public String getRootDir() {
         return rootDir;
@@ -48,12 +49,13 @@ public class URLDownloader {
      * @param MAX_NB_OF_PAGES - maximum number of pages to be downloaded
      */
 
-    public URLDownloader(String rootDir, int MAX_NB_OF_PAGES, int numberOfThreads) {
+    public URLDownloader(String rootDir, int MAX_NB_OF_PAGES, int numberOfThreads) throws IOException {
         this.rootDir = ".\\" + rootDir + "\\";
         this.MAX_NB_OF_PAGES = MAX_NB_OF_PAGES;
         this.visitedPages = new HashSet<String>();
         this.pagesToVisit = new ArrayList<String>();
         this.numberOfThreads = numberOfThreads;
+        this.pageInterpreter = new PageInterpreter("robots.txt");
     }
 
     // TODO: check if file can be downloaded
@@ -228,6 +230,8 @@ public class URLDownloader {
             File fout = new File(path + fileName);
             FileOutputStream fos = new FileOutputStream(fout);
 
+
+
             int length = -1;
             byte[] buffer = new byte[1024];
             while ((length = is.read(buffer)) > -1) {
@@ -236,6 +240,13 @@ public class URLDownloader {
 
             is.close();
             fos.close();
+
+            String content = new Scanner(new File(path + fileName)).useDelimiter("\\Z").next();
+            if(!pageInterpreter.isPageCorrect(content)){
+                File myObj = new File(path.toString() + fileName);
+                myObj.delete();
+            }
+
             if (fileName.endsWith(".html") || fileName.endsWith(".htm")) {
                 extractLinks(fileName, path.toString(), url);
             }
