@@ -1,0 +1,942 @@
+[ 14/12.2020 00:29:09 ] INFO: Download in progress https://www.yourhtmlsource.com/
+[ 14/12.2020 00:29:09 ] INFO: Download in progress https://www.yourhtmlsource.com/
+[ 14/12.2020 00:29:09 ] INFO: Download in progress https://www.yourhtmlsource.com/
+[ 14/12.2020 00:29:09 ] INFO: Download in progress https://www.yourhtmlsource.com/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:10 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress https://www.yourhtmlsource.com/books/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress https://www.yourhtmlsource.com/books/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress https://www.yourhtmlsource.com/sitemanagement/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:11 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/hosting/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/text/textformattinglist.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/print.css
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/text/textformattinglist.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/hosting/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/docs/help.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/docs/help.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/docs/help.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/fullindex/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/optimisation/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/contact/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/stylesheets/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/javascript/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./about.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/fullindex/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/10ways.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/stylesheets/namedcolours.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/stylesheets/namedcolours.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/javascript/basicjavascript.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./docs/help.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress https://www.yourhtmlsource.com/hosting/
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./about.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./about.html
+[ 14/12.2020 00:29:12 ] INFO: Download in progress http://validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://www.yourhtmlsource.com/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://www.w3.org/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://www.w3.org/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://www.w3.org/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://www.w3.org/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/nonditheringcolours.html
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/javascript/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://validator.w3.org/docs/help.html
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/nonditheringcolours.html
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/sitemanagement/urlrewriting.html
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/javascript/basicjavascript.html
+[ 14/12.2020 00:29:13 ] INFO: Download in progress https://www.yourhtmlsource.com/about/
+[ 14/12.2020 00:29:13 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Illegal character in URL
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Illegal character in URL
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Illegal character in URL
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/ipr-notice
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./images/w3c.png
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/ipr-notice
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/ipr-notice
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/ipr-notice
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/I_heart_validator
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:13 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./copyright-documents
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//ev.buaa.edu.c.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//ev.buaa.edu.c.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./copyright-software
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./copyright-software
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./copyright-software
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//ev.buaa.edu.c.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./copyright-software
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./Donate
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/.Sites\validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/.Sites\validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:14 ] INFO: Download in progress http://validator.w3.org/./todo.html
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/.Sites\validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host Illegal character in URL
+[ 14/12.2020 00:29:14 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/html4explained.html
+[ 14/12.2020 00:29:14 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:14 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:14 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:14 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:14 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:14 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/I_heart_validator
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.csail.mit.ed.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:14 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:14 ] INFO: Download in progress https://www.yourhtmlsource.com/support/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/././contribute.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/text/textformattinglist.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/optimisation/imageoptimisation.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.csail.mit.ed.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:14 ] ERR: Cannot resolve host .\Sites\validator.w3.org\.. (Access is denied)
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Status
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Status
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/whatishtml.html
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./privacy-statement
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Status
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./opensource-55x48.png
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Status
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./Donate
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/contact/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./docs/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://www.w3.org/QA/Tools/Donate
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.csail.mit.ed.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/perlvariables.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./Donate
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/.Sites\validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./privacy-statement
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./about.html
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.ercim.e.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./about.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./about.html
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.ercim.e.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://validator.w3.org/./about.html
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./privacy-statement
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.facebook.com/widgets/like.php?href=http://www.yourhtmlsource.com
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.facebook.com/widgets/like.php?href=http://www.yourhtmlsource.com
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:15 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./copyright-documents
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.facebook.com/widgets/like.php?href=http://www.yourhtmlsource.com
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/support/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/support/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress http://www.w3.org/Status
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/glossary.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/tables/tablesaccessibility.html
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.googletagmanager.com/gtag/js?id=UA-204627-1
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/optimisation/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/tables/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/tables/
+[ 14/12.2020 00:29:15 ] INFO: Download in progress https://www.yourhtmlsource.com/tables/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./privacy-statement
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./doc.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://mootools.net/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Connection reset
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://mootools.net/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://mootools.net/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://mootools.net/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/./docs/why.html
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/./docs/why.html
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.w3.org/QA/Tools/Donate
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.webthing.com/~nick/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.selfpromotion.com/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.selfpromotion.com/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.selfpromotion.com/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/docs/users.html
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/docs/users.html
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host .\Sites\validator.w3.org\.. (Access is denied)
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host .\Sites\validator.w3.org\.. (Access is denied)
+[ 14/12.2020 00:29:16 ] INFO: Download in progress https://www.googletagmanager.com/gtag/js?id=UA-204627-1
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/episode5.html
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host .\Sites\validator.w3.org\.. (Access is denied)
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./doc.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://www.aaronsw.com/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./about.html
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.keio.ac.j.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host .\Sites\validator.w3.org\. (Access is denied)
+[ 14/12.2020 00:29:16 ] ERR: Cannot resolve host .\Sites\validator.w3.org\. (Access is denied)
+[ 14/12.2020 00:29:16 ] INFO: Download in progress http://validator.w3.org/././contribute.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/docs/users.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.yourhtmlsource.com/about/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/docs/errors.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.yourhtmlsource.com/sourcescripts.js
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/metatags.html
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host .\Sites\validator.w3.org\. (Access is denied)
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/scripts/combined
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host .\Sites\validator.w3.org\. (Access is denied)
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/mailto:www-validator@w3.org
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/mailto:www-validator@w3.org
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.keio.ac.j.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./nu
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.w3.org/TR/CSS21/syndata.html#value-def-color
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.w3.org/QA/Tools/Donate
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.selfpromotion.com/
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./doc.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.yourhtmlsource.com/contact/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./nu
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.googletagmanager.com/gtag/js?id=UA-204627-1
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.googletagmanager.com/gtag/js?id=UA-204627-1
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/docs/errors.html
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./200.Sites\validator.w3.org/./0.Sites\validator.w3.org/./Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./200.Sites\validator.w3.org/./0.Sites\validator.w3.org/./Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:17 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://tidy.sourceforge.net/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/docs/errors.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.goldenwebawards.com/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.goldenwebawards.com/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.goldenwebawards.com/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/docs/errors.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.goldenwebawards.com/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.yahoo.com/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/docs/errors.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.yahoo.com/
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/docs/errors.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://validator.w3.org/docs/errors.html
+[ 14/12.2020 00:29:17 ] INFO: Download in progress http://www.searchenginewatch.com/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/passwords.html
+[ 14/12.2020 00:29:18 ] INFO: Download in progress http://validator.w3.org/checklink/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/facebook.html
+[ 14/12.2020 00:29:18 ] INFO: Download in progress http://validator.w3.org/checklink/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress https://www.yourhtmlsource.com/myfirstsite/tagreference.html
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] INFO: Download in progress https://www.yourhtmlsource.com/support/
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./checklink
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//jigsaw.w3.or.Sites\validator.w3.org/./css-validato.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./styl.Sites\validator.w3.org/./base
+[ 14/12.2020 00:29:18 ] INFO: Download in progress https://www.yourhtmlsource.com/support/
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./styl.Sites\validator.w3.org/./base
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./styl.Sites\validator.w3.org/./base
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./whatsnew.html
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:18 ] INFO: Download in progress http://www.jibbering.com/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress http://www.jibbering.com/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress http://validator.w3.org/checklink/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress https://www.yourhtmlsource.com/print.css
+[ 14/12.2020 00:29:18 ] INFO: Download in progress http://tidy.sourceforge.net/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress http://www.w3.org/People/Hugo/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress http://www.webthing.com/~nick/
+[ 14/12.2020 00:29:18 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/whatishtml.html
+[ 14/12.2020 00:29:18 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/basicperl.html
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/support/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/navigation.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/netiquette.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/perlvariables.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#Copyright
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./200.Sites\validator.w3.org/./0.Sites\validator.w3.org/./Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/I_heart_validator
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/I_heart_validator
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#Copyright
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.w3.org/People/Hugo/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.jibbering.com/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.googletagmanager.com/gtag/js?id=UA-204627-1
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/searchhiplus.js
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.w3.org/People/olivier/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/page/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/page/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/page/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://hittheroad.ie/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://hittheroad.ie/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://hittheroad.ie/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://hittheroad.ie/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.sincerewedding.com/bridesmaid-gifts-c-28.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.sincerewedding.com/bridesmaid-gifts-c-28.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.searchenginewatch.com/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.w3.org/People/olivier/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/moreprograms.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/support/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/searchhiplus.js
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/javascript/ajax.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.jibbering.com/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./mobil.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.w3.org/People/Hugo/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://sierkbornemann.de/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://sierkbornemann.de/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://alistapart.com/articles/fauxcolumns/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://alistapart.com/articles/fauxcolumns/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/optimisation/
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host https://www.yourhtmlsource.com/fullindex/.Sites\www.yourhtmlsource.com/promotion/linkrequests.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/facebook.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/myfirstsite/basiclinks.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/myfirstsite/tagreference.html
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host https://www.yourhtmlsource.com/fullindex/.Sites\www.yourhtmlsource.com/javascript/dhtmlexplained.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.sincerewedding.com/bridesmaid-gifts-c-28.html
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://www.sincerewedding.com/bridesmaid-gifts-c-28.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:19 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/tables/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/frames/
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/processingforms.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://validator.w3.org/docs/users.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://validator.w3.org/docs/users.html
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/print.css
+[ 14/12.2020 00:29:19 ] INFO: Download in progress http://sierkbornemann.de/
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.google.com/
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.google.com/
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.google.com/
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress https://www.yourhtmlsource.com/hosting/
+[ 14/12.2020 00:29:20 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/10ways.html
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.google.com/
+[ 14/12.2020 00:29:20 ] INFO: Download in progress https://www.yourhtmlsource.com/stylesheets/csslayout.html
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#Copyright
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:19 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/navigation.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./w3c.png
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./w3c.png
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./mobil.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./whatsnew.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./mobil.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./w3c.png
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./200.Sites\validator.w3.org/./0.Sites\validator.w3.org/./Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./200.Sites\validator.w3.org/./0.Sites\validator.w3.org/./Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./styl.Sites\validator.w3.org/./base
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./checklink
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//jigsaw.w3.or.Sites\validator.w3.org/./css-validato.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//jigsaw.w3.or.Sites\validator.w3.org/./css-validato.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//jigsaw.w3.or.Sites\validator.w3.org/./css-validato.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./validator-whatsnew.atom
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./validator-whatsnew.atom
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.or.Sites\validator.w3.org/./image.Sites\validator.w3.org/./favicon.ico
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://alistapart.com/articles/fauxcolumns/
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://alistapart.com/articles/fauxcolumns/
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.or.Sites\validator.w3.org/./image.Sites\validator.w3.org/./favicon.ico
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./w3c.png
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./mobil.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./mobil.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.or.Sites\validator.w3.org/./image.Sites\validator.w3.org/./favicon.ico
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] INFO: Download in progress https://www.yourhtmlsource.com/searchhiplus.js
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./validator-whatsnew.atom
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./validator-whatsnew.atom
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://alistapart.com/articles/fauxcolumns/
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.or.Sites\validator.w3.org/./image.Sites\validator.w3.org/./favicon.ico
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.or.Sites\validator.w3.org/./mailto:www-validator@w3.org
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.or.Sites\validator.w3.org/./mailto:www-validator@w3.org
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Illegal character in URL
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Illegal character in URL
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Illegal character in URL
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Illegal character in URL
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/mailto:www-validator@w3.org
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/mailto:www-validator@w3.org
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./whatsnew.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./whatsnew.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./checklink
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./doc.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.or.Sites\validator.w3.org/./mailto:www-validator@w3.org
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.or.Sites\validator.w3.org/./mailto:www-validator@w3.org
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://tidy.sourceforge.net/
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host https://www.yourhtmlsource.com/contact/mailto:ross&
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host https://www.yourhtmlsource.com/contact/mailto:ross&
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host https://www.yourhtmlsource.com/contact/mailto:ross&
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host https://www.yourhtmlsource.com/contact/mailto:ross&
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://validator.w3.org/./docs/why.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./w3c.png
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./checklink
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./200.Sites\validator.w3.org/./0.Sites\validator.w3.org/./Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./mobil.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] INFO: Download in progress https://validator.w3.org/checklink
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.dezmembrari.ro
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://www.dezmembrari.ro
+[ 14/12.2020 00:29:20 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//jigsaw.w3.or.Sites\validator.w3.org/./css-validato.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:20 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://validator.w3.org/docs/users.html
+[ 14/12.2020 00:29:20 ] INFO: Download in progress http://validator.w3.org/docs/errors.html
+[ 14/12.2020 00:29:21 ] INFO: Download in progress https://www.yourhtmlsource.com/myfirstsite/basiclinks.html
+[ 14/12.2020 00:29:21 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/processingforms.html
+[ 14/12.2020 00:29:21 ] INFO: Download in progress http://www.w3.org/TR/html401/
+[ 14/12.2020 00:29:21 ] INFO: Download in progress http://www.w3.org/TR/xhtml1/
+[ 14/12.2020 00:29:21 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:21 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/passwords.html
+[ 14/12.2020 00:29:21 ] INFO: Download in progress http://www.kostenlos-66.de
+[ 14/12.2020 00:29:21 ] ERR: Cannot resolve host http://validator.w3.org/doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:21 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/page/
+[ 14/12.2020 00:29:21 ] INFO: Download in progress https://www.yourhtmlsource.com/print.css
+[ 14/12.2020 00:29:21 ] INFO: Download in progress http://validator.w3.org/docs/devel.html
+[ 14/12.2020 00:29:21 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:21 ] INFO: Download in progress http://www.sincerewedding.com/bridesmaid-gifts-c-28.html
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.yourhtmlsource.com/print.css
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.yourhtmlsource.com/htmlsource-search.xml
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://validator.w3.org/docs/users.html
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://validator.w3.org/docs/users.html
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://bjoern.hoehrmann.de/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/10ways.html
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://bjoern.hoehrmann.de/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://bjoern.hoehrmann.de/
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./nu
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/page/
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org//www.w3.org/QA/Tools/w3c-include.js
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/page/
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./nu
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://www.htmlhelp.com/tools/validator/
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./about.html
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./about.html
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.googletagmanager.com/gtag/js?id=UA-204627-1
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/script.Sites\validator.w3.org/./combined
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/page/
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:22 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/page/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.facebook.com/widgets/like.php?href=http://www.yourhtmlsource.com
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/episode2.html
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://www.jclark.com/sp/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.yourhtmlsource.com/redesigns/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.yourhtmlsource.com/redesigns/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.yourhtmlsource.com/redesigns/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress https://www.yourhtmlsource.com/redesigns/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://www.versicherung-66.de/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://bjoern.hoehrmann.de/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://www.jclark.com/sp/
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://www.mietdienste.de/schmutzfangmatten.php
+[ 14/12.2020 00:29:22 ] INFO: Download in progress http://www.jclark.com/sp/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.jclark.com/sp/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.dezmembrari.ro
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://awsd.com/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.htmlhelp.com/tools/validator/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.jclark.com/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.jclark.com/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.htmlhelp.com/tools/validator/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.htmlhelp.com/tools/validator/
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.keio.ac.j.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.dezmembrari.ro
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://awsd.com/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://awsd.com/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://awsd.com/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/favicon.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/episode1.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.versicherung-66.de/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/searchengines.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.versicherung-66.de/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.versicherung-66.de/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.kreditvergleich-66.de/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.kreditvergleich-66.de/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.kreditvergleich-66.de/
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host .\Sites\www.yourhtmlsource.com\. (Access is denied)
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host .\Sites\www.yourhtmlsource.com\. (Access is denied)
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.facebook.com/widgets/like.php?href=http://www.yourhtmlsource.com
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./ipr-notice
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://www.macecraft.com
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./ipr-notice
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/browsersupport.html
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://mychoyce.com
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./opensource-55x48.png
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./ipr-notice
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./ipr-notice
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.csail.mit.ed.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./opensource-55x48.png
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.keio.ac.j.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./doc.Sites\validator.w3.org/./help.html
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.ercim.e.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.ercim.e.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./image.Sites\validator.w3.org/./opensource-55x48.png
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//ev.buaa.edu.c.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./Tool.Sites\validator.w3.org/./Donate
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/contact/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://9elements.com/io/projects/html5/canvas/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://validator.w3.org/feed/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://validator.w3.org/checklink
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/print.css
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/print.css
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/.Sites\validator.w3.org/./about.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress http://mychoyce.com
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Consortiu.Sites\validator.w3.org/./Lega.Sites\validator.w3.org/./copyright-documents
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/about/
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/whatishtml.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/whatishtml.html
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://validator.w3.org/nu
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://validator.w3.org/nu
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/contact/
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/text/textformattinglist.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/10badthings.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/myfirstsite/tagreference.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/javascript/basicjavascript.html
+[ 14/12.2020 00:29:23 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/10ways.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/text/textformattinglist.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/whatishtml.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/contact/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/javascript/basicjavascript.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/about/
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/testing.html
+[ 14/12.2020 00:29:23 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/testing.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/basicperl.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:24 ] ERR: Cannot resolve host http://www.w3.org/QA/2005/01/Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/stylesheets/namedcolours.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/myfirstsite/tagreference.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/html4explained.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/nonditheringcolours.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/basicperl.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/fullindex/
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/optimisation/imageoptimisation.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/text/textformattinglist.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/processingforms.html
+[ 14/12.2020 00:29:24 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/I_heart_validator
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/10badthings.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/10badthings.html
+[ 14/12.2020 00:29:24 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/I_heart_validator
+[ 14/12.2020 00:29:24 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/I_heart_validator
+[ 14/12.2020 00:29:24 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/QA/Tools/I_heart_validator
+[ 14/12.2020 00:29:24 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:24 ] ERR: Cannot resolve host http://validator.w3.org//www.w3.org/Icons/WWW/w3c_home_nb
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/myfirstsite/tagreference.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/nonditheringcolours.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/optimisation/imageoptimisation.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/glossary.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress http://www.markgaither.com/
+[ 14/12.2020 00:29:24 ] ERR: Cannot resolve host Couldn't kickstart handshaking
+[ 14/12.2020 00:29:24 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/10badthings.html
+[ 14/12.2020 00:29:24 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:24 ] INFO: Download in progress http://www.mietdienste.de/schmutzfangmatten.php
+[ 14/12.2020 00:29:24 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:24 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-documents
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./style/base
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/hosting/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://arealvalidator.com/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.vk-systems.com
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/javascript/ajax.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./whatsnew.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./whatsnew.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./about.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/promotion/10ways.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.yourhtmlsource.com/bubbleicious.css
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/html4explained.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./docs/help.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./docs/help.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/testing.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./contribute.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://spaceasia.com
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://spaceasia.com
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://jigsaw.w3.org/css-validator/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://spaceasia.com
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/cgi/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/QA/Tools/Donate
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://spaceasia.com
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://validator.w3.org/checklink
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/QA/Tools/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-documents
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/QA/Tools/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-documents
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-documents
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/text/specialcharacters.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/glossary.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/whatishtml.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/html4explained.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./style/base
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/sourcescripts.js
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#W3C_Trademarks
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/accessibility/xhtmlexplained.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/././contribute.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.ercim.eu/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./docs/help.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./feedback.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/./whatsnew.html
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/ipr-notice#Legal_Disclaimer
+[ 14/12.2020 00:29:25 ] INFO: Download in progress http://validator.w3.org/././contribute.html
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:26 ] INFO: Download in progress https://validator.w3.org/checklink
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/privacy-statement#Members
+[ 14/12.2020 00:29:26 ] INFO: Download in progress https://validator.w3.org/feed/
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/privacy-statement#Members
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/privacy-statement#Public
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/privacy-statement#Public
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.htmlhelp.com/tools/validator/
+[ 14/12.2020 00:29:26 ] ERR: Cannot resolve host http://validator.w3.org/http.Sites\validator.w3.org/.//www.w3.or.Sites\validator.w3.org/./Q.Sites\validator.w3.org/./200.Sites\validator.w3.org/./0.Sites\validator.w3.org/./Validator-IE_WinXP_SP2
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.htmlhelp.com/tools/validator/
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.mietdienste.de/schmutzfangmatten.php
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.mietdienste.de/schmutzfangmatten.php
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/QA/Tools/validator-whatsnew.atom
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://validator.w3.org/docs/help.html
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://validator.w3.org/docs/help.html
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://validator.w3.org/docs/help.html
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.dezmembrari.ro
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-software
+[ 14/12.2020 00:29:26 ] INFO: Download in progress https://www.yourhtmlsource.com/updates/
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-documents
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-documents
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.mietdienste.de/schmutzfangmatten.php
+[ 14/12.2020 00:29:26 ] ERR: Cannot resolve host http://validator.w3.org/https.Sites\validator.w3.org/.//validator.w3.or.Sites\validator.w3.org/./fee.Sites\validator.w3.org/./
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-documents
+[ 14/12.2020 00:29:26 ] INFO: Download in progress https://www.yourhtmlsource.com/forms/
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.mietdienste.de/schmutzfangmatten.php
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/copyright-documents
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://www.mietdienste.de/schmutzfangmatten.php
+[ 14/12.2020 00:29:26 ] INFO: Download in progress http://ev.buaa.edu.cn/
+[ 14/12.2020 00:29:27 ] ERR: Cannot resolve host .\Sites\www.yourhtmlsource.com\. (Access is denied)
+[ 14/12.2020 00:29:27 ] INFO: Download in progress https://www.yourhtmlsource.com/text/specialcharacters.html
+[ 14/12.2020 00:29:27 ] ERR: Cannot resolve host https://www.yourhtmlsource.com/fullindex/.Sites\www.yourhtmlsource.com/updates/episode9.html
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://www.mietdienste.de/schmutzfangmatten.php
+[ 14/12.2020 00:29:27 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:27 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:27 ] ERR: Cannot resolve host Server returned HTTP response code: 503 for URL: http://valet.webthing.com/
+[ 14/12.2020 00:29:27 ] INFO: Download in progress https://www.yourhtmlsource.com/starthere/glossary.html
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://9elements.com/io/projects/html5/canvas/
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://9elements.com/io/projects/html5/canvas/
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://validator.w3.org/././docs/help.html
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://validator.w3.org/././docs/help.html
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://validator.w3.org/././docs/help.html
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/privacy-statement#Public
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/privacy-statement#Members
+[ 14/12.2020 00:29:27 ] INFO: Download in progress https://www.yourhtmlsource.com/sitemanagement/
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://www.w3.org/Consortium/Legal/privacy-statement#Public
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://validator.w3.org/././feedback.html
+[ 14/12.2020 00:29:27 ] INFO: Download in progress https://www.yourhtmlsource.com/sitemanagement/
+[ 14/12.2020 00:29:27 ] INFO: Download in progress http://validator.w3.org/././feedback.html
+[ 14/12.2020 00:29:28 ] INFO: Download in progress http://www.markgaither.com/
