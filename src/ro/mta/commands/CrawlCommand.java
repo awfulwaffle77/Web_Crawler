@@ -7,6 +7,8 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 /**
  * crawl command implements the crawling and downloading of the selected urls
@@ -22,11 +24,13 @@ public class CrawlCommand extends AbstractCommand {
      * config.conf:
      * root_dir
      * max_nb_of_pages
+     * number_of_threads
      */
     private String urlFile;
 
     private String rootDir;
     private int nbOfPages;
+    private int numberOfThreads;
 
     private ArrayList<String> urls;
 
@@ -51,6 +55,9 @@ public class CrawlCommand extends AbstractCommand {
             line = reader.readLine();
             nbOfPages = Integer.parseInt(line);
 
+            line = reader.readLine();
+            numberOfThreads = Integer.parseInt(line);
+
             reader.close();
             reader = new BufferedReader(new FileReader(urlFile));
 
@@ -71,7 +78,7 @@ public class CrawlCommand extends AbstractCommand {
     @Override
     public void execute() {
         try{
-            URLDownloader u = new URLDownloader(rootDir,nbOfPages);
+            URLDownloader u = new URLDownloader(rootDir,nbOfPages, numberOfThreads);
             for(Iterator<String> it=urls.iterator(); it.hasNext();){
                 u.download(it.next(),0);
             }

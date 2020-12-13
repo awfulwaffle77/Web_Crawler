@@ -9,9 +9,19 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class PageInterpreter {
+
+    /**
+     * rules - un map de tipul "cheie":"valoare", citit din fisierul robots.txt
+     * maxRules - numarul de reguli care exista in fisierul robots.txt, adica nr de linii
+     */
     private Map<String, String> rules = new HashMap<>();
     private int maxRules = 0;
 
+    /**
+     *
+     * @param filename - numele fisierului din care se va citi(robots.txt)
+     * @throws IOException
+     */
     public PageInterpreter(String filename) throws IOException {
         try {
             List<String> lines = Files.readAllLines(Paths.get(filename), StandardCharsets.UTF_8);
@@ -27,6 +37,11 @@ public class PageInterpreter {
         }
     }
 
+    /**
+     *
+     * @param htmlString - contentul html, cu fiecare linie terminata in \n sau \r
+     * @return - retureaza true daca pagina respecta formatul regulilor din fisier, false daca nu
+     */
     boolean isPageCorrect(String htmlString){ // if all rules apply, returns true
         int correctiveness = 0;
 
@@ -62,6 +77,11 @@ public class PageInterpreter {
         return correctiveness == maxRules;
     }
 
+    /**
+     *
+     * @param htmlString - contentul html, cu fiecare linie terminata in \n sau \r
+     * @return - returneaza stringul html, formatat dupa reguli
+     */
     String formatPages(String htmlString){
         StringBuilder finalPage = new StringBuilder();
 
