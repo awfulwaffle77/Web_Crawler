@@ -17,8 +17,6 @@ import java.util.regex.Pattern;
 
 public class URLDownloader {
 
-    // TODO: tratare erori de acces
-
     private String rootDir;
     private int MAX_NB_OF_PAGES = 5;
     private int numberOfThreads;
@@ -242,13 +240,19 @@ public class URLDownloader {
 
             is.close();
             fos.close();
-
-            String content = new Scanner(new File(path + fileName)).useDelimiter("\\Z").next();
-            if(!pageInterpreter.isPageCorrect(content)){
-                File myObj = new File(path.toString() + fileName);
-                myObj.delete();
-                return;
+            try {
+                String content = new Scanner(new File(path + fileName)).useDelimiter("\\Z").next();
+                if(!pageInterpreter.isPageCorrect(content)){
+                    File myObj = new File(path.toString() + fileName);
+                    myObj.delete();
+                    return;
+                }
             }
+            catch (NoSuchElementException e){
+                //System.out.println(e.getMessage());
+                logger.writeLog("ERR", "No Such Element Exception: " + e.getMessage());
+            }
+
 
             logger.writeLog("INFO", url.toString());
             if (fileName.endsWith(".html") || fileName.endsWith(".htm")) {
@@ -256,18 +260,28 @@ public class URLDownloader {
             }
             //System.out.println("###########################################################");
         } catch (MalformedURLException url_e) {
-            url_e.printStackTrace();
+            //url_e.printStackTrace();
             logger.writeLog("ERR", url_e.getMessage());
         } catch (IOException io_e) {
-            io_e.printStackTrace();
+            //io_e.printStackTrace();
             logger.writeLog("ERR", io_e.getMessage());
         }
     }
 
     public void download(String url, int pageNb) throws IOException {
-        ExecutorService es = Executors.newFixedThreadPool(numberOfThreads);
+        /*ExecutorService es = Executors.newFixedThreadPool(numberOfThreads);
         for (int i = 0; i < numberOfThreads; i++) {
             es.execute(new CustomThread(this, pageNb, url, i, numberOfThreads));
+        }*/
+        if(pageNb == MAX_NB_OF_PAGES)
+            return;
+
+        downloadURL(url);
+        visitedPages.add(url);
+        for (Iterator<String> it=pagesToVisit.iterator(); it.hasNext();){
+            String l = it.next();
+            it.remove();
+            download(l,pageNb+1);
         }
     }
 

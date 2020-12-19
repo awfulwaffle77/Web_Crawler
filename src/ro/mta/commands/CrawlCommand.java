@@ -1,5 +1,6 @@
 package ro.mta.commands;
 
+import ro.mta.CustomThread;
 import ro.mta.URLDownloader;
 
 import java.io.BufferedReader;
@@ -67,24 +68,27 @@ public class CrawlCommand extends AbstractCommand {
                 urls.add(line);
             }
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            //e.printStackTrace();
             System.out.println(e.getMessage());
         } catch (IOException ioe) {
-            ioe.printStackTrace();
+            //ioe.printStackTrace();
             System.out.println(ioe.getMessage());
         }
     }
 
     @Override
     public void execute() {
-        try{
-            URLDownloader u = new URLDownloader(rootDir,nbOfPages, numberOfThreads);
-            for(Iterator<String> it=urls.iterator(); it.hasNext();){
-                u.download(it.next(),0);
-            }
-        } catch (IOException ioe){
-            ioe.printStackTrace();
-            System.out.println(ioe.getMessage());
+        ExecutorService es = Executors.newFixedThreadPool(numberOfThreads);
+        //for (int i = 0; i < numberOfThreads; i++) {
+            //es.execute(new CustomThread(this, pageNb, url, i, numberOfThreads));
+        //    es.execute(new CustomThread(rootDir,nbOfPages));
+        //}
+        /////////////////////////////////////////////////////////////////////
+        //URLDownloader u = new URLDownloader(rootDir,nbOfPages, numberOfThreads);
+        for(Iterator<String> it=urls.iterator(); it.hasNext();){
+            //u.download(it.next(),0);
+            es.execute(new CustomThread(rootDir,nbOfPages,it.next()));
         }
+
     }
 }
