@@ -40,8 +40,11 @@ public class CommandFactory {
                 break;
             }
             case "list":{
-                toRet = new ListCommand(args);
-                break;
+                if(args.length == 3)
+                {
+                    toRet = new ListCommand(args);
+                    break;
+                }
             }
             case "search":{
                 toRet = new SearchCommand(args);

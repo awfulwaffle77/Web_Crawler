@@ -2,6 +2,7 @@ package ro.mta.commands;
 
 
 import javax.naming.directory.InvalidSearchFilterException;
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.NoSuchFileException;
 import java.nio.file.NotDirectoryException;
@@ -50,32 +51,35 @@ public class ListCommand extends AbstractCommand {
 
     private void searchAndList( String path ) {
 
-        Pattern pattern = Pattern.compile("(.*?)" + "\\." + argument+"$", Pattern.CASE_INSENSITIVE);
 
-        File root = new File( path );
+        Pattern pattern = Pattern.compile("(.*?)" + "\\." + argument + "$", Pattern.CASE_INSENSITIVE);
+
+        File root = new File(path);
+
         File[] list = root.listFiles();
 
-        if (list == null) return;
+        if (list == null) return ;
 
-        for ( File f : list ) {
-            if ( f.isDirectory() ) {
-                searchAndList( f.getAbsolutePath() ); //aici incepe recursivitatea
-            }
-            else {
+        for (File f : list) {
+            if (f.isDirectory()) {
+                searchAndList(f.getAbsolutePath()); //aici incepe recursivitatea
+            } else {
                 Matcher matcher = pattern.matcher(f.getName());
                 boolean matchFound = matcher.find();
-                if(matchFound) {
+                if (matchFound) {
                     System.out.println(f.getAbsoluteFile());
                     fileFound = Boolean.TRUE;
                 }
             }
         }
-        if(!fileFound)
-            System.out.println("Nu s-a gasit niciun fisier cu extensia data.");
+
     }
 
     @Override
     public void execute() {
-        searchAndList(pathToDir);
+        if(pathToDir != null)
+            searchAndList(pathToDir);
+        if (!fileFound)
+            System.out.println("Nu s-a gasit niciun fisier cu extensia data.");
     }
 }
