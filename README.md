@@ -4,9 +4,7 @@
 
 `crawler search <path> <maxFileSize> <keywords>`
 
-`crawler list <path> <keyword>`
-
-keyword este extensie
+`crawler list <path> <keyword>` unde keyword este extensie
 
 ## Fisierele de configurare
 ### config.txt
