@@ -1,8 +1,8 @@
 # Web Crawler
 ## Comenzi
-`crawler crawl config.txt <fisier_cu_urluri>`
+`crawler crawl config.txt url.txt`
 
-`crawler search <path> <maxFileSize> <keywords>`
+`crawler search <path> <maxFileSize> <keywords>` unde path este calea locala unde se va cauta
 
 `crawler list <path> <keyword>` unde keyword este extensie
 
