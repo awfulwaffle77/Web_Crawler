@@ -9,7 +9,14 @@
 keyword este extensie
 
 ## Fisierele de configurare
-# robots.txt
+### config.txt
+Este utilizat pentru `URLDownloader` si va contine:
+```
+  {nume de director care va fi creat si in care se vor salva siteurile}
+  {nr de pagini ce vor fi downloadate}
+  {numarul de threaduri pe care va fi rulat programul}
+```
+### robots.txt
 Va contine:
 ```
   contains:{lista de cuvinte separate prin virgula}
