@@ -1,6 +1,6 @@
 # Web Crawler
 ## Comenzi
-`crawler crawl <fisier_configurare> <fisier_url>`
+`crawler crawl config.txt <fisier_cu_urluri>`
 
 `crawler search <path> <maxFileSize> <keywords>`
 
