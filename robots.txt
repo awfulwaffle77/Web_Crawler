@@ -1,2 +1,2 @@
-contains:cerc,mta,files
-max_lines:25
+contains:files
+max_lines:2500
