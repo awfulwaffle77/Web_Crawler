@@ -14,6 +14,14 @@ Este utilizat pentru `URLDownloader` si va contine:
   {nr de pagini ce vor fi downloadate}
   {numarul de threaduri pe care va fi rulat programul}
 ```
+### url.txt
+Va contine numele siteurile de pe care se va descarca (ex. `https://www.yourhtmlsource.com/`)
+``` 
+  {nume site 1}
+  .
+  .
+  {nume site n}
+```
 ### robots.txt
 Va contine:
 ```
