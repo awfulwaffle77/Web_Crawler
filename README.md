@@ -12,9 +12,10 @@ keyword este extensie
 # robots.txt
 Va contine:
 
-`contains:{lista de cuvinte separate prin virgula}
+```contains:{lista de cuvinte separate prin virgula}
 
-max_lines:{numar maxim de linii}`
+max_lines:{numar maxim de linii}
+```
 
 ## Folosirea PageInterpreter
 
