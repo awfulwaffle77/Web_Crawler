@@ -8,6 +8,13 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Aceasta clasa filtreaza sau verifica o pagina HTML, in functie
+ * de fisierul de configurare. Acest fisier trebuie sa aiba
+ * contains:{lista de cuvinte separate prin virgula}
+ * max_lines:{numarul maxim de linii pe care vrem sa il aiba o pagina}
+ * @author Heroi Dorin
+ */
 public class PageInterpreter {
 
     /**
@@ -16,6 +23,7 @@ public class PageInterpreter {
      */
     private Map<String, String> rules = new HashMap<>();
     private int maxRules = 0;
+    Logger logger;
 
     /**
      *
@@ -24,6 +32,7 @@ public class PageInterpreter {
      */
     public PageInterpreter(String filename) throws IOException {
         try {
+            logger = Logger.getInstance();
             List<String> lines = Files.readAllLines(Paths.get(filename), StandardCharsets.UTF_8);
             lines = Files.readAllLines(Paths.get(filename), StandardCharsets.UTF_8);
 
@@ -92,17 +101,18 @@ public class PageInterpreter {
             maxLines = Integer.parseInt(rules.get("max_lines"));
         }
 
-        String[] maxLinedString = new String[maxLines];
+        String[] maxLinedString = new String[maxLines]; // verifica doar primele maxLines linii
         for(int i = 0; i < maxLines; i++){
             maxLinedString[i] = splittedHtmlString[i];
         }
 
-        if(rules.get("contains") != null){
+        if(rules.get("contains") != null){ // ia doar liniile care contin cel putin unul din cuvintele cheie
             String[] containsList = rules.get("contains").split(",");
             for(String line : maxLinedString){
               for(String element : containsList){
                   if(line.contains(element)){
                       finalPage.append(line);
+                      finalPage.append('\n');
                       break;
                   }
               }
