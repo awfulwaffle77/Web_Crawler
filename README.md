@@ -11,10 +11,9 @@ keyword este extensie
 ## Fisierele de configurare
 # robots.txt
 Va contine:
-
-```contains:{lista de cuvinte separate prin virgula}
-
-max_lines:{numar maxim de linii}
+```
+  contains:{lista de cuvinte separate prin virgula}
+  max_lines:{numar maxim de linii}
 ```
 
 ## Folosirea PageInterpreter
